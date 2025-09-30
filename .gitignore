@@ -1,3 +1,20 @@
 .gradle
 .idea
 build
+
+# Kotlin specific
+*.kotlin_module
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA / Android Studio
+*.iml
+out/
